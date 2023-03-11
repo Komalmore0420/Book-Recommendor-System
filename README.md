@@ -3,8 +3,11 @@ The main objective of this project is to develop book recommendation systems by 
 
 Libraries Used:
 ipython-notebook - Python Text Editor
+
 sklearn - Machine learning library
+
 numpy -  python library
+
 pandas - data handling library
 
 
